@@ -31,7 +31,7 @@ public class Matrix {
          }
       }
 
-      // Prints the elements encrypted matrix
+      // Prints the elements of the encrypted matrix
       for (int i = 0; i < encrypted.length; i++) {
          for (int j = 0; j < encrypted[0].length; j++) {
             System.out.println(encrypted[i][j]);
